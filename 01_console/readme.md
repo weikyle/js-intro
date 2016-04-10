@@ -1,6 +1,7 @@
 # Instructions
 
-1. Debug the script
+1. Use the console to find the JavaScript error(s)
+2. Debug the script
 
 ---
 ## Documentation
